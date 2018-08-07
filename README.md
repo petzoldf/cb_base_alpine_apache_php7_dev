@@ -1,2 +1,1 @@
-# cb_base_alpine_apache_php5_dev
 # cb_base_alpine_apache_php7_dev
